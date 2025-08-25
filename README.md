@@ -26,7 +26,6 @@
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-tanish-964791372/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-username)  
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@thecursorguy2)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-tanish-964791372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@thecursorguy?_t=ZN-8zA0sF8l55a&_r=1)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishbala567@gmail.com)
