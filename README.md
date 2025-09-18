@@ -43,7 +43,7 @@
   <!-- GitHub Stats -->
   <h2 align="center">🚀 GitHub Stats</h2>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Total+Repos:+1️⃣7️⃣%2b;Total+Commits:+1️⃣2️⃣0️⃣0️⃣%2B;Stars+Earned:+4️⃣3️⃣" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Total+Repos:+2️⃣0️⃣%2b;Total+Commits:+1️⃣2️⃣0️⃣0️⃣%2B;Stars+Earned:+4️⃣3️⃣" alt="Typing SVG" />
   </p>
 
   <hr/>
