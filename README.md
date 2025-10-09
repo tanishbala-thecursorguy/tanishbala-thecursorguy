@@ -94,13 +94,8 @@
 </p>
 
 
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-tanish-964791372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@thecursorguy?_t=ZN-8zA0sF8l55a&_r=1)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanish2390_/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishbala567@gmail.com)
-
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanish2390_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala-tanish-964791372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/tanishhhhhhhhhhhhhhhhhhhh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Tanish-stuff) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/tanishbala-thecursorguy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishbala567@gmail.com) 
 
 
   <!-- Closing Typewriter -->
