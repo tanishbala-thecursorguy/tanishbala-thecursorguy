@@ -34,7 +34,7 @@
 ---
 
 # 💫 About Me:
-building DevActa world's first developers platform with gaming experience<br>
+
 
 
 <p align="center">
